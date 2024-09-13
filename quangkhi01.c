@@ -34,7 +34,7 @@ int main() {
         double x=-b/(2*a);
         printf("X=%lf\n", x);
     } else {
-        printf("The equation has no solution.\n");
+        printf("vo nghiem.\n");
     }
 
     return 0;
